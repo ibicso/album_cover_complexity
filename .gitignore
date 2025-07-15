@@ -1,0 +1,30 @@
+# Large image directories
+album_analisys/data/img_all/
+data/img_all/
+
+# Test album covers directory
+test/album_covers/
+
+# Large installer files
+Miniconda3-latest-MacOSX-arm64.sh
+Anaconda3-*
+Miniconda3-*
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Archive files
+*.zip

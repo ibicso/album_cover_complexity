@@ -1,0 +1,44 @@
+GEMINI DATE PREDICTION ACCURACY REPORT
+==================================================
+
+Total albums tested: 450
+Valid predictions: 297
+Invalid predictions: 153
+
+ACCURACY METRICS:
+--------------------
+Exact year match: 0.636 (63.6%)
+Within 1 year: 0.710 (71.0%)
+Within 2 years: 0.734 (73.4%)
+Within 5 years: 0.801 (80.1%)
+Same decade: 0.781 (78.1%)
+
+ERROR STATISTICS:
+--------------------
+Mean absolute error: 3.43 years
+Standard deviation: 7.37 years
+
+CONFIDENCE ANALYSIS:
+--------------------
+Confident predictions (sure=true): 289
+  Exact year match: 0.644 (64.4%)
+  Within 1 year: 0.716 (71.6%)
+  Within 5 years: 0.803 (80.3%)
+  Same decade: 0.782 (78.2%)
+  Mean absolute error: 3.44 years
+
+Unconfident predictions (sure=false): 8
+  Exact year match: 0.375 (37.5%)
+  Within 1 year: 0.500 (50.0%)
+  Within 5 years: 0.750 (75.0%)
+  Same decade: 0.750 (75.0%)
+  Mean absolute error: 3.00 years
+
+ERROR DISTRIBUTION:
+--------------------
+0 years off: 189
+1 year off: 22
+2 years off: 7
+3-5 years off: 20
+6-10 years off: 22
+More than 10 years off: 37

@@ -1,0 +1,27 @@
+GEMINI GENRE PREDICTION SUMMARY REPORT
+==================================================
+
+Total albums processed: 4403
+Processing completed: 2025-07-02 12:13:28
+
+GENRE DISTRIBUTION:
+--------------------
+Albums with high confidence (sure=true): 4008
+Albums with low confidence (sure=false): 259
+
+World music: 1071 (26.7%)
+Pop: 460 (11.5%)
+Country & Folk: 427 (10.7%)
+Hip Hop: 420 (10.5%)
+Speciality: 420 (10.5%)
+Classical: 321 (8.0%)
+Rock: 302 (7.5%)
+Jazz & Blues: 250 (6.2%)
+R&B: 227 (5.7%)
+Electronic: 60 (1.5%)
+Metal: 50 (1.2%)
+
+CONFIDENCE LEVELS:
+--------------------
+Sure true: 4008 (91.0%)
+Sure false: 259 (5.9%)

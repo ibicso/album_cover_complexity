@@ -1,0 +1,15 @@
+Rock: 1351
+Electronic: 1045
+Pop: 786
+Metal: 509
+Jazz: 415
+Rap: 413
+RnB: 332
+Country: 294
+Reggae: 251
+Folk: 214
+Blues: 157
+Punk: 126
+World: 122
+Latin: 79
+New Age: 66

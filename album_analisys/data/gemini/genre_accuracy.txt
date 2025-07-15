@@ -1,0 +1,30 @@
+Analyzing 500 albums...
+
+==============================
+OVERALL ACCURACY METRICS
+==============================
+Exact Match Accuracy: 0.408 (204/500)
+Containment Accuracy: 0.846 (423/500)
+
+========================================
+ACCURACY BY CONFIDENCE LEVEL
+========================================
+Confidence distribution:
+  True: 450 predictions (90.0%)
+  False: 50 predictions (10.0%)
+
+Confidence Level: True (450 predictions)
+------------------------------
+  Exact Match Accuracy: 0.433 (195/450)
+  Containment Accuracy: 0.871 (392/450)
+
+Confidence Level: False (50 predictions)
+------------------------------
+  Exact Match Accuracy: 0.180 (9/50)
+  Containment Accuracy: 0.620 (31/50)
+
+==============================
+SUMMARY
+==============================
+Overall Exact Match Accuracy: 40.8%
+Overall Containment Accuracy: 84.6%

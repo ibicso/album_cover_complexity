@@ -1,0 +1,446 @@
+Pop: 26069
+Rock: 16392
+Alternative Rock: 8204
+World Music: 6383
+Dance & Electronic: 4750
+Jazz: 4521
+R&B: 3518
+Metal: 3361
+Dance Pop: 3302
+Indie & Lo-Fi: 2736
+Folk: 2550
+Indie Rock: 2513
+Hardcore & Punk: 2465
+Blues: 2440
+Country: 2293
+Latin Music: 2268
+Europe: 2261
+Adult Alternative: 2253
+Vocal Pop: 2207
+Soul: 2202
+Classic Rock: 1842
+Rap & Hip-Hop: 1802
+Punk: 1735
+Singer-Songwriters: 1557
+Oldies: 1532
+Latin Pop: 1409
+Pop Rap: 1363
+Electronica: 1350
+Progressive: 1317
+Broadway & Vocalists: 1313
+Pop Metal: 1249
+Adult Contemporary: 1171
+Today's Country: 1141
+Continental Europe: 1114
+Progressive Rock: 1046
+Christian: 1011
+Soundtracks: 995
+Bebop: 976
+Special Interest: 971
+Easy Listening: 969
+New Age: 948
+New Wave & Post-Punk: 939
+Traditional Vocal Pop: 938
+Album-Oriented Rock (AOR): 911
+Folk Rock: 891
+Reggae: 885
+Contemporary Folk: 877
+British Isles: 863
+Techno: 813
+Traditional Folk: 778
+Classic Country: 734
+American Alternative: 731
+Traditional Pop: 726
+Britain: 712
+Pop & Contemporary: 708
+New Wave: 683
+Regional Blues: 680
+Vocal Jazz: 679
+House: 663
+Blues Rock: 658
+South & Central America: 656
+Caribbean & Cuba: 629
+Electric Blues: 621
+Funk: 619
+Goth & Industrial: 614
+Swing Jazz: 608
+Death Metal: 584
+Country Rock: 580
+Modern Postbebop: 577
+Classical: 572
+Euro Pop: 555
+Alternative Metal: 547
+Hardcore: 541
+Soft Rock: 522
+Jazz Fusion: 521
+Movie Soundtracks: 512
+Oldies & Retro: 509
+Gangsta & Hardcore: 499
+Traditional Jazz & Ragtime: 491
+Ambient: 490
+Smooth Jazz: 488
+Punk Revival: 483
+Americana: 465
+Contemporary Blues: 430
+Modern Blues: 410
+Brazil: 400
+Traditional Blues: 394
+Meditation: 386
+France: 386
+Movie Scores: 380
+Soul-Jazz & Boogaloo: 378
+Latin Jazz: 375
+Hard Rock: 375
+Holiday & Wedding: 375
+British & Celtic Folk: 370
+Bluegrass: 369
+Salsa: 368
+Industrial: 367
+Gospel: 362
+Contemporary R&B: 356
+Psychedelic Rock: 348
+Post-Punk: 337
+Opera & Classical Vocal: 326
+Cuba: 324
+Punk-Pop: 324
+Christmas: 321
+World Dance: 312
+Avant Garde & Free Jazz: 303
+Disco: 302
+Trip-Hop: 301
+Chicago Blues: 300
+Comedy & Spoken Word: 294
+Latin Rock: 292
+British Alternative: 284
+Alt Industrial: 282
+Dance Hall: 279
+Goth: 268
+East Coast: 266
+Outlaw Country: 254
+Africa: 251
+Thrash & Speed Metal: 251
+French Pop: 250
+Contemporary Big Band: 241
+Acoustic Blues: 236
+Italy: 236
+Ska: 236
+Quiet Storm: 230
+Trance: 229
+Classic Big Band: 227
+Britpop: 227
+Emo: 225
+Progressive Metal: 225
+Glam: 221
+Neotraditional: 218
+Rock Guitarists: 218
+Rockabilly: 217
+Dream Pop: 211
+Roots Rock: 209
+Vocal Non-Opera: 209
+Scandinavia: 206
+Cool Jazz: 201
+British Folk: 197
+Experimental Rap: 196
+West Coast: 194
+Teen Pop: 194
+British Invasion: 194
+Arena Rock: 193
+Ireland: 192
+Musicals: 192
+Dub: 183
+Nashville Sound: 182
+Electronic Pop: 181
+North America: 178
+Jam Bands: 175
+Delta Blues: 171
+Irish Folk: 170
+Power Pop: 166
+Rock & Alternative: 164
+IDM: 164
+Acid Jazz: 164
+Lo-Fi: 161
+Children's Music: 161
+Southern Rock: 160
+Post Hardcore: 157
+Australia & New Zealand: 156
+Noels: 155
+Roadhouse Country: 152
+Germany: 151
+Motown: 150
+Spain: 148
+Merengue: 144
+Comedic Music: 143
+Texas Blues: 142
+Chamber Music: 137
+Southern Rap: 135
+Brazilian Jazz: 132
+Classic Vocalists: 131
+Blue-Eyed Soul: 122
+Drum & Bass: 121
+British Punk: 118
+Jump Blues: 118
+Vocal Blues: 117
+Third Wave Ska: 116
+Classic R&B: 115
+Urban & Contemporary: 112
+Electronic: 112
+Cabaret: 111
+Jamaica: 111
+Argentina: 111
+Instrumental: 108
+Italian Pop: 107
+Cowboy: 107
+Tributes: 106
+Chamber Pop: 105
+Garage Punk: 104
+Sweden: 103
+Piano Blues: 103
+Proto Punk: 102
+American Punk: 102
+Rocksteady: 98
+Tejano: 94
+Celtic New Age: 94
+Eastern Europe: 94
+Industrial Dance: 90
+Scotland: 90
+Ska Punk: 86
+Far East & Asia: 85
+Big Beat: 85
+Middle East: 85
+Bolero: 83
+Old-Time Country: 82
+Doo Wop: 81
+Bossa Nova: 80
+Harmonica Blues: 80
+Forms & Genres: 77
+Old School: 73
+Latin Hip-Hop: 73
+Jamaican Ska: 72
+Southern Soul: 72
+Rap Rock: 70
+India & Pakistan: 69
+Television Soundtracks: 69
+Slide Guitar: 69
+Swedish Pop: 68
+Praise & Worship: 68
+Country & Bluegrass: 68
+Shoegazing: 67
+British Metal: 66
+Flamenco: 66
+Jangle Pop: 66
+Ambient Pop: 63
+Celtic Folk: 62
+Surf Rock: 62
+Western Swing: 60
+Norway: 60
+Baroque Pop: 59
+Memphis Blues: 59
+Girl Groups: 59
+Cajun & Zydeco: 59
+Puerto Rico: 57
+Samba: 56
+Memphis Soul: 56
+Symphonies: 56
+International Rap: 55
+Traditional: 53
+Hard Rock & Metal: 53
+Gypsy: 51
+New Orleans Blues: 51
+Funk Rock: 51
+Tango: 50
+Philly Soul: 50
+Mambo: 49
+New Orleans Jazz: 47
+New Jack: 47
+Bubblegum: 45
+East Coast Blues: 45
+Bass: 44
+Dixieland: 44
+West Coast Blues: 42
+Netherlands: 41
+Concertos: 41
+South Africa: 41
+Colombia: 39
+Ballets & Dances: 39
+Mariachi: 38
+Southern Gospel: 37
+European Jazz: 36
+Spoken Word: 36
+Israel: 36
+Finland: 34
+Ranchera: 34
+Scottish Folk: 34
+Boogie-Woogie: 33
+Krautrock: 33
+Riot Grrl: 32
+Northern: 31
+Jewish & Yiddish: 31
+Math Rock: 30
+Japan: 30
+Turntablists: 30
+Bachata: 30
+Freestyle: 29
+Belgium: 29
+Disney: 29
+Healing: 28
+Surf Guitar: 28
+Relaxation: 28
+Reggaeton: 28
+Mali: 27
+Sacred & Religious: 27
+Guitar Gods: 27
+Arabic: 27
+Stride Piano: 27
+Denmark: 27
+Jive Jazz: 27
+Latin Electronica: 27
+Tin Pan Alley: 26
+Bakersfield Sound: 26
+Switzerland: 26
+Appalachian: 25
+Big Band: 25
+Twee Pop: 25
+Rave: 24
+Jazz Jam Bands: 24
+Pacific Islands: 24
+Andes: 24
+Dominican Republic: 24
+Supergroups: 24
+Afro-Cuban: 23
+Senegal & Gambia: 23
+Neo-Soul: 23
+Sing-A-Longs: 23
+Charanga: 22
+Hawaii: 22
+Urban Folk: 22
+Calypso: 22
+Chile: 22
+Lullabies: 21
+Straight Edge: 20
+Ragtime: 20
+Rhumba: 20
+Orchestral Jazz: 20
+Country Comedy: 19
+Banda: 17
+Polkas: 17
+Soukous: 17
+Retro Swing: 16
+Austria: 16
+Poetry: 16
+Peru: 16
+Congo: 15
+Native American: 15
+Greece: 15
+British Ska: 15
+Soca: 15
+Suites: 15
+Nigeria: 15
+Algeria: 15
+Detroit Blues: 15
+Poland: 14
+ Incidental & Program Music: 13
+Operettas: 13
+Cumbia: 13
+Songs & Lieder: 13
+Polka: 13
+Theatrical: 13
+Arias: 13
+St. Louis Blues: 12
+Ballets: 12
+Choir: 12
+Venezuela: 12
+Vintage Dance Bands: 11
+Trinidad: 11
+Afro Brazilian: 11
+New York Blues: 10
+Portugal: 10
+Shock Comedy: 10
+Hymns: 10
+Dubstep: 10
+Nature & Environment: 10
+Karaoke: 9
+Folk Songs: 9
+Zimbabwe: 9
+Shred: 9
+Sonatas: 9
+Vallenato: 8
+Haiti: 8
+Short Forms: 8
+Zouk: 8
+Halloween: 7
+Educational: 7
+Cantatas: 7
+Lullabies & Berceuse: 7
+Exercise: 7
+Tone Poems: 7
+Romania: 7
+Turkey: 6
+Requiems: 6
+Oratorios: 6
+Serenades & Divertimentos: 6
+Grupero: 6
+Character Pieces: 6
+Waltzes: 6
+Sonatinas: 6
+Bolivia: 6
+Guinea: 5
+Cameroon: 5
+Overtures: 5
+Cape Verde: 5
+Mexican Cumbia: 5
+Instructional: 5
+Motets: 5
+Stories: 5
+Dances: 4
+Russia: 4
+Self-Help: 4
+Children's: 4
+China: 4
+Wedding Music: 4
+Latin Christian: 4
+Hungary: 4
+Egypt: 3
+Ballads: 3
+Uruguay: 3
+Nicaragua: 3
+Quartets: 3
+Variations: 3
+Anthems: 3
+Czech Republic: 3
+Bahamas: 3
+Accompaniment: 3
+Latin Children's: 3
+Korea: 3
+Preludes: 2
+Concerto Grossi: 2
+Bulgaria: 2
+Incidental Music: 2
+Improvisation: 2
+Voices: 2
+Korean Pop: 2
+Radio Shows: 2
+Morocco: 2
+Masses: 2
+Tibet: 2
+Ghana: 2
+Tanzania: 2
+Iran: 2
+Costa Rica: 1
+Etudes: 1
+Fantasies: 1
+Marches: 1
+Mazurkas: 1
+Polynesian Music: 1
+Tahiti: 1
+Easter: 1
+Madrigals: 1
+Tierra Caliente: 1
+Armenia: 1
+Lebanon: 1
+Ukraine: 1
+Nocturnes: 1
+Islamic: 1
+Tangos: 1
+Passions: 1
+Kwanzaa: 1
+ Elegies & Tombeau: 1
