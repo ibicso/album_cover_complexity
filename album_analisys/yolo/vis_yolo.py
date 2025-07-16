@@ -501,14 +501,18 @@ def plot_albums_with_objects_by_genre(df, output_dir, top_genres=11):
     if 'Without Objects' not in genre_object_stats.columns:
         genre_object_stats['Without Objects'] = 0
     
-    # Calculate total albums per genre and sort by total
+    # Calculate total albums per genre
     genre_object_stats['Total'] = genre_object_stats['With Objects'] + genre_object_stats['Without Objects']
-    genre_object_stats = genre_object_stats.sort_values('Total', ascending=False)
     
     # Calculate percentages
     genre_object_percent = genre_object_stats[['With Objects', 'Without Objects']].div(
         genre_object_stats['Total'], axis=0
     ) * 100
+    
+    # Sort by percentage of albums with objects (detection rate) in descending order
+    genre_object_percent = genre_object_percent.sort_values('With Objects', ascending=False)
+    # Reorder genre_object_stats to match the same order
+    genre_object_stats = genre_object_stats.reindex(genre_object_percent.index)
     
     # Create the stacked bar plot
     fig, ax = plt.subplots(figsize=(14, 10))

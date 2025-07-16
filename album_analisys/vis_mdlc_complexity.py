@@ -12,7 +12,7 @@ warnings.filterwarnings('ignore')
 
 
 MIN_ALBUMS_COUNT = 50
-FONT_SIZE = 18
+FONT_SIZE = 25
 
 def create_output_directory():
     """Create the output directory for plots"""
@@ -321,6 +321,8 @@ def plot_stacked_album_count_by_year(df, output_dir):
     
     # Create the stacked plot
     fig, ax = plt.subplots(figsize=(18, 10))
+    fig.patch.set_facecolor('none')  # Transparent figure background
+    ax.set_facecolor('none')  # Transparent plot area
     
     # Define colors for each genre
     colors = plt.cm.tab20(np.linspace(0, 1, len(top_genres)))
@@ -332,15 +334,18 @@ def plot_stacked_album_count_by_year(df, output_dir):
         if genre in pivot_data.columns:
             values = pivot_data[genre].values
             ax.bar(pivot_data.index, values, bottom=bottom, 
-                  label=genre, color=colors[i], alpha=0.8, edgecolor='white', linewidth=0.5, width=0.8)
+                  label=genre, color=colors[i], alpha=0.8, linewidth=0.5, width=0.8)
             bottom += values
     
     ax.set_xlabel('Year', fontweight='bold', fontsize=FONT_SIZE+4)
     ax.set_ylabel('Number of Albums', fontweight='bold', fontsize=FONT_SIZE+4)
     ax.grid(True, alpha=0.3, axis='y')
     
-    # Create legend outside the plot
-    ax.legend(bbox_to_anchor=(1, 1), loc='upper left')
+    # Create horizontal legend above the plot with transparent background
+    legend = ax.legend(bbox_to_anchor=(0.5, 1), loc='lower center', 
+                      fontsize=FONT_SIZE-6, ncol=6)  # ncol=4 for 4 columns
+    legend.get_frame().set_facecolor('none')  # Transparent legend background
+    legend.get_frame().set_edgecolor('none')  # Remove legend border
     
     # Format x-axis with appropriate year ticks
     year_range = pivot_data.index.max() - pivot_data.index.min()
@@ -356,7 +361,8 @@ def plot_stacked_album_count_by_year(df, output_dir):
     
     
     plt.tight_layout()
-    plt.savefig(f'{output_dir}/stacked_album_count_by_year.png', dpi=300, bbox_inches='tight')
+    plt.savefig(f'{output_dir}/stacked_album_count_by_year_slide.png', dpi=300, bbox_inches='tight',
+                facecolor='none', edgecolor='none', transparent=True)
     plt.show()
     
     print("Saved stacked album count by year plot")
@@ -586,11 +592,11 @@ def main():
     yearly_stacked_data = plot_stacked_album_count_by_year(df, output_dir)
     
     # print("\n" + "="*50)
-    plot_dataset_genre_distribution(df, output_dir)
+    # plot_dataset_genre_distribution(df, output_dir)
 
-    #complexity
+    # #complexity
   
-    dynamic_temporal_data, dynamic_temporal_stats = plot_quantile_box_comparison_dynamic(df_no_split, output_dir, min_albums=3000)
+    # dynamic_temporal_data, dynamic_temporal_stats = plot_quantile_box_comparison_dynamic(df_no_split, output_dir, min_albums=3000)
 
     # # #     print("\n" + "="*50)
     # box_data = plot_entropy_distribution_box(df, output_dir)

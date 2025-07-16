@@ -8,7 +8,7 @@ import io
 import time
 from datetime import datetime
 
-GEMINI_API_KEY = "AIzaSyBMC8_LdcQy5fuQGgV8v1mm2rKpOVzC4Rk"
+GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"
 
 # Configure the API key
 genai.configure(api_key=GEMINI_API_KEY)

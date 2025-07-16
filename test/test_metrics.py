@@ -21,8 +21,8 @@ sys.path.append('../album_analisys')
 from itertools import permutations
 
 # Path to test images CSV
-TEST_IMAGES_CSV = "test_images_paths.csv"
-OUTPUT_CSV = "test_metrics_results.csv"
+TEST_IMAGES_CSV = "slide_image_paths.csv"
+OUTPUT_CSV = "test_metrics_results_slide.csv"
 
 # --- Load functions from modules with problematic names ---
 
@@ -278,7 +278,5 @@ if __name__ == "__main__":
     print("\nSummary Statistics:")
     print(results_df.describe())
     
-    # Plot comparison
-    plot_metrics_comparison(results_df)
     
     print("\nDone!")
